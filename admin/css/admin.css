@@ -1,0 +1,48 @@
+.user-panel {
+    height: 50px;
+}
+.user-panel>.info {
+    position: relative;
+    left: auto;
+}
+.skin-blue .sidebar-menu>li.header {
+    color: white;
+}
+
+/* Login */
+.login-page .main-footer {
+    display: none;
+}
+
+/* Registros Admin */
+.contenido-dia {
+  display: none;
+}
+.tabla-precios ul,
+ul.lista-precios {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+h4.nombre-dia {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fe4918;
+}
+ul.lista-precios li .numero {
+  font-size: 30px;
+}
+.tabla-precios h3 {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fe4918;
+}
+.contenido-dia label {
+  font-weight: normal;
+}
+.contenido-dia time {
+  color: #fe4918;
+  font-weight: bold;
+}
